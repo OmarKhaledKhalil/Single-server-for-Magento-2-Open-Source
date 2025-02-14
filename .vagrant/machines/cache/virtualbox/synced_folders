@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/omar/Magento 2 Open Source Deployment with Vagrant and VirtualBox","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
